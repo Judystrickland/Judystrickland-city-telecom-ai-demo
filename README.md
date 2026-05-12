@@ -1,6 +1,6 @@
 # Overview
 
-## This project is a proof-of-concept internal AI-powered query assistant developed using Python, Flask, and SQLite.
+### This project is a proof-of-concept internal AI-powered query assistant developed using Python, Flask, and SQLite.
 
 ## The system simulates an internal telecommunications support tool capable of retrieving:
 
